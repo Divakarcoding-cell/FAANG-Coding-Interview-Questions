@@ -1,3 +1,19 @@
+👋 My Learning Journey
+
+Hi! I'm Divakarcoding-cell, and I'm using this repository to learn Data Structures and Algorithms (DSA), practice coding interview questions, and improve my problem-solving skills.
+
+🎯 My Goals
+
+- Practice coding problems consistently.
+- Learn algorithms and common problem-solving patterns.
+- Write my own solutions and explanations.
+- Track my progress as I prepare for technical interviews.
+
+📌 My Contributions
+
+I'll add my own solutions, notes, explanations, and learning progress over time. Original project content and attribution are retained below.
+
+---
 # FAANG / MAANG+ Coding Interview Questions
 
 <div align="center">
